@@ -8,6 +8,8 @@ Here’s a README.md draft for your JS4: Coding Project folder, tailored for the
 
 The purpose of this coding assignment is to help you master the concepts presented in Week 7 by solving problems using JavaScript. Completing this project will reinforce your understanding of the week’s material and give you hands-on practice.
 
+Video Walk-through: https://youtu.be/Z7pmLbnJxls
+
 ## Getting Started
 
 1. **Clone this repository:**  
